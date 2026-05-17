@@ -28,7 +28,8 @@ Doctor Rosenberg (Me)
 On linux, you should be able to launch the executable like:
 
 ```bash
-cd timer
+cd the_directory_with_the_executable
+chmod +x Timer
 ./Timer
 ```
 
