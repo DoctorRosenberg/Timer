@@ -6,7 +6,9 @@
 #include <chrono>
 #include <thread>
 
-void timerfunc(int seconds);
+void timerfuncDOWNTOUP(const int seconds);
+
+void timerfuncUPTODOWN(const int seconds);
 
 
 #endif
